@@ -21,7 +21,7 @@ def monopoly_with_third_tier
 				{:one => a_value, :two => a_value,:three => a_value,:four => a_value}
 				}
 			}
-		}
+
 	monopoly
 end
 
